@@ -1,0 +1,13 @@
+{
+  "name": "distance-lat-long",
+  "version": "1.0.0",
+  "description": "sorted customers list within 100km area by latitude and longitude",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ashique hussain ansari",
+  "license": "ISC",
+  "dependencies": {}
+}
